@@ -1,5 +1,6 @@
 {
     "name": "means/package",
+    "version": "0.0.1",
     "description": "example package",
     "type": "library",
     "require": {
